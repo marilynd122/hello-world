@@ -1,10 +1,7 @@
-
-
-
-
-
-
-
+ 
+ 
+ [RowdyHackers.zip](https://github.com/marilynd122/hello-world/files/6216756/RowdyHackers.zip)
+[RowdyHackers.zip](https://github.com/marilynd122/hello-world/files/6216759/RowdyHackers.zip)
 import java.util.Scanner;
 public class RowdyHackers {
  public static void main(String[] args) {
@@ -114,3 +111,4 @@ public class RowdyHackers {
  }
 }
          
+ 
